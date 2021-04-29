@@ -20,7 +20,7 @@ body{
 }
 .card img {
   width:100%;
-  //margin-bottom: 2rem;
+  height:300px;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
 }
